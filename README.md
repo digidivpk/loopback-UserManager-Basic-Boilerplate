@@ -1,0 +1,1 @@
+# loopback-UserManager-Basic-Boilerplate
